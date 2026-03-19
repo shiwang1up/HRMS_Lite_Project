@@ -4,7 +4,7 @@
 HRMS Lite is a lightweight, modern Human Resource Management System. It allows administrators to effortlessly manage employee records and accurately track daily attendance. It functions via a high-performance backend API serving a sleek, highly responsive Frontend UI designed with Tailwind CSS v4.
 
 ## 🚀 Live Links
-- **Frontend (Vercel)**: [Pending Deployment]
+- **Frontend (Vercel)**: [https://hrms-lite-project-three.vercel.app](https://hrms-lite-project-three.vercel.app/employees)
 - **Backend (Render)**: [https://hrms-lite-backend-5xa7.onrender.com](https://hrms-lite-backend-5xa7.onrender.com)
 - **Repository**: [Project GitHub Repo](https://github.com/shiwang1up/HRMS_Lite_Project)
 
