@@ -5,7 +5,7 @@ HRMS Lite is a lightweight, modern Human Resource Management System. It allows a
 
 ## 🚀 Live Links
 - **Frontend (Vercel)**: [Pending Deployment]
-- **Backend (Render)**: [Pending Deployment]
+- **Backend (Render)**: [https://hrms-lite-backend-5xa7.onrender.com](https://hrms-lite-backend-5xa7.onrender.com)
 - **Repository**: [Project GitHub Repo](https://github.com/shiwang1up/HRMS_Lite_Project)
 
 ## 💻 Tech Stack
